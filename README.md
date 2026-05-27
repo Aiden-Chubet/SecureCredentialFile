@@ -1,0 +1,2 @@
+# SecureCredentialFile
+Secure Credential Management
